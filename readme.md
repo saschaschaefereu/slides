@@ -35,7 +35,7 @@ Dieses Repository dient als öffentliches Archiv für die Folien meiner Vorträg
 ## 📬 Contact & Links
 
 * **Blog & Articles:** [saschaschaefer.eu](https://saschaschaefer.eu)
-* **Supporter & Fellow:** Fellow and speaker at [ora2know](https://www.ora2know.de)
+* **Supporter** Fellow and speaker at [ora2know](https://www.ora2know.de)
 * **Community:** Active member and speaker at [DOAG](https://www.doag.org)
 
 ---
